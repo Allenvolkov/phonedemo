@@ -1,6 +1,6 @@
 codepath readme 
 
-## NAME_OF_YOUR_APP_HERE
+## iOSDemo
 
 ### App Description
 `TODO://` first codepath project;  creating a simple ios ui 
