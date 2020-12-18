@@ -1,9 +1,9 @@
 codepath readme 
 
-## iOSDemo
+## Hello World App
 
 ### App Description
-`TODO://` first codepath project;  creating a simple ios ui 
+`TODO://` first codepath project;  creating a simple ios app 
  
  
 ![](https://i.imgur.com/Svco4NI.gif)
