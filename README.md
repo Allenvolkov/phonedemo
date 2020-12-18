@@ -7,7 +7,7 @@ first coding project for codepath
 
 ### App Walk-though
 
-<img src="hhttps://imgur.com/1rtNbpn" width=200><br>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/7oq9qqw" data-context="false" ><a href="//imgur.com/a/7oq9qqw"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
