@@ -7,7 +7,7 @@ first coding project for codepath
 
 ### App Walk-though
 
-<img src= ![Imgur Image]https://imgur.com/a/Gqtitlk width=200><br>
+<img src= ![Imgur Image]https://imgur.com/a/Gqtitlk.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
